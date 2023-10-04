@@ -6,3 +6,6 @@ nacos study
 
 查看nacos后台 http://127.0.0.1:8848/nacos 服务列表，服务已经注册
 <img width="1413" alt="image" src="https://github.com/keguang/nacos-study/assets/10006532/2d42c545-622b-48fb-8eb8-f766990ef025">
+
+### 访问 http://127.0.0.1:8081/helloworld
+<img width="363" alt="image" src="https://github.com/keguang/nacos-study/assets/10006532/880452e2-d073-4ca9-817d-aca24022d693">
